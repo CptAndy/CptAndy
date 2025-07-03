@@ -1,11 +1,13 @@
 
 
 <h1>Anderson Mota <br/><a>IT Graduate | Database Management & Data Analysis | MySQL | SQL | Data-Driven Problem Solver | Always Learning & Adapting</a></h1>
-<p>
   
+
+
 |SQL|Java|Python|  
 |---|---|---|
-</p>
+
+
 <h2>Relevant Projects:</h2>
 
 - <b>[HudsonSoft database](https://github.com/CptAndy/Database-Related/tree/main/HudsonSoft)
