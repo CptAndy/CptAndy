@@ -4,7 +4,7 @@
   
 
 
-|SQL|Java|Python|  
+|:books: SQL|:coffee: Java|:snake: Python|  
 |---|---|---|
 
 
