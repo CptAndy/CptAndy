@@ -1,5 +1,11 @@
-<h1>Anderson Mota <br/><a href="https://github.com/CptAndy">IT Graduate | Database Management & Data Analysis | MySQL | SQL | Data-Driven Problem Solver | Always Learning & Adapting</a></h1>
 
+
+<h1>Anderson Mota <br/><a>IT Graduate | Database Management & Data Analysis | MySQL | SQL | Data-Driven Problem Solver | Always Learning & Adapting</a></h1>
+<p>
+  
+|SQL|Java|Python|  
+|---|---|---|
+</p>
 <h2>Relevant Projects:</h2>
 
 - <b>[HudsonSoft database](https://github.com/CptAndy/Database-Related/tree/main/HudsonSoft)
@@ -7,7 +13,7 @@
   - The HudsonSoft database is designed to manage the product sales, purchases, and returns for a company, including customer information and product details. The system also supports the tracking of product types and different types of returns. Additionally, triggers are implemented to automatically update customer spendings, product stock, and return processing.
 - <b>[Two-tier Client-Server](https://github.com/CptAndy/Database-Related/tree/main/Project2)</b>
   
-  - This project entails creating a Java-based GUI front-end application that connects to a MySQL server via JDBC. The application enables clients with varying permissions to execute SQL commands across different databases. Additionally, a specialized GUI monitoring application will be developed for accountant-level users.
+  - This project entails creating a Java-based GUI front-end application that connects to a MySQL server via JDBC. The application enables clients with varying permissions to execute SQL commands across different databases. Each client has access to specialized UI with special permissions pertaining to each clients role.
  
 - <b>[Three-tier Web-Based Application](https://github.com/CptAndy/Database-Related/tree/main/Tomcat%20Project)</b>
 
