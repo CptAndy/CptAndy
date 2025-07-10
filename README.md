@@ -15,11 +15,11 @@
   - The HudsonSoft database is designed to manage the product sales, purchases, and returns for a company, including customer information and product details. The system also supports the tracking of product types and different types of returns. Additionally, triggers are implemented to automatically update customer spendings, product stock, and return processing.
 - <b>[Two-tier Client-Server](https://github.com/CptAndy/Database-Related/tree/main/Project2)</b>
   
-  - This project entails creating a Java-based GUI front-end application that connects to a MySQL server via JDBC. The application enables clients with varying permissions to execute SQL commands across different databases. Each client has access to specialized UI with special permissions pertaining to each clients role.
+  - Java GUI front-end application that connects to a MySQL server via JDBC. The application enables clients with varying permissions to execute SQL commands across different databases. Each client has access to specialized UI with special permissions pertaining to each clients role.
  
 - <b>[Three-tier Web-Based Application](https://github.com/CptAndy/Database-Related/tree/main/Tomcat%20Project)</b>
 
-  - A distributed three-tier web-based application using servlets and JSP technology. The application runs on a Tomcat server and connects to a MySQL database using JDBC. It is designed to manage a suppliers/parts/jobs/shipments database, allowing different users to interact with the data effectively.
+  - A Three-tier web-based application using servlets and JSP technology. The application runs on a Tomcat server and connects to a MySQL database using JDBC. It is designed to manage a suppliers/parts/jobs/shipments database, allowing different users to interact with the data effectively.
 
 - <b>[TransCore Database](https://github.com/CptAndy/Database-Related/blob/main/CAP3104/README.md)</b>
 
