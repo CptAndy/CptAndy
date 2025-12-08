@@ -5,7 +5,7 @@
 
 
 | :books: SQL| :blue_book: GoLang|  
-|---|---|---|
+|---|---|
 
 
 <h2>Relevant Projects:</h2>
