@@ -4,7 +4,7 @@
   
 
 
-|:books: SQL|:coffee: Java|:snake: Python|  
+|:books: SQL|:blue_book: GoLang|  
 |---|---|---|
 
 
@@ -13,6 +13,7 @@
 - <b>[HudsonSoft database](https://github.com/CptAndy/Database-Related/tree/main/HudsonSoft)
   
   - The HudsonSoft database is designed to manage the product sales, purchases, and returns for a company, including customer information and product details. The system also supports the tracking of product types and different types of returns. Additionally, triggers are implemented to automatically update customer spendings, product stock, and return processing.
+
 - <b>[Two-tier Client-Server](https://github.com/CptAndy/Database-Related/tree/main/Project2)</b>
   
   - Java GUI front-end application that connects to a MySQL server via JDBC. The application enables clients with varying permissions to execute SQL commands across different databases. Each client has access to specialized UI with special permissions pertaining to each clients role.
@@ -24,7 +25,10 @@
 - <b>[TransCore Database](https://github.com/CptAndy/Database-Related/blob/main/CAP3104/README.md)</b>
 
   - The implementation of a SQL database to support a traffic control system. This database includes tables for managing requirements, priority, status, and tracking of various functionalities related to the system.
-    
+
+- <b>[Price Calculator]</b>
+
+  - A simple project making use of structs, Slices, Maps, Interfaces, and File IO in Go programming language to create a price calculator
 
 <h2>Connect with me</h2>
 
