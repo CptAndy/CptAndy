@@ -4,7 +4,7 @@
   
 
 
-|:books: SQL|:blue_book: GoLang|  
+| :books: SQL| :blue_book: GoLang|  
 |---|---|---|
 
 
