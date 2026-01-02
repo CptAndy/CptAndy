@@ -26,9 +26,9 @@
 
   - The implementation of a SQL database to support a traffic control system. This database includes tables for managing requirements, priority, status, and tracking of various functionalities related to the system.
 
-- <b>[Price Calculator]</b>
+- <b>[Backend Go Project(in progress)]</b>
 
-  - A simple project making use of structs, Slices, Maps, Interfaces, and File IO in Go programming language to create a price calculator
+  - Implementation of SQL connectors, Postgres, APIs, ETC.
 
 <h2>Connect with me</h2>
 
