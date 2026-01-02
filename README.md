@@ -4,8 +4,8 @@
   
 
 
-| :books: SQL| :blue_book: GoLang|  
-|---|---|
+| :books: SQL| :blue_book: GoLang| :orange_book: Java|
+|---|---|---|
 
 
 <h2>Relevant Projects:</h2>
@@ -26,9 +26,9 @@
 
   - The implementation of a SQL database to support a traffic control system. This database includes tables for managing requirements, priority, status, and tracking of various functionalities related to the system.
 
-- <b>[Backend Go Project(in progress)]</b>
+- <b>[Backend Projects(in progress)]</b>
 
-  - Implementation of SQL connectors, Postgres, APIs, ETC.
+  - Implementation of SQL connectors, Postgres, APIs, Go language, Java,ETC.
 
 <h2>Connect with me</h2>
 
