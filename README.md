@@ -1,6 +1,6 @@
 
 
-<h1>Anderson Mota <br/><a>IT Graduate | Database Management & Data Analysis | MySQL | SQL | Data-Driven Problem Solver | Always Learning & Adapting</a></h1>
+<h1>Anderson Mota <br/><a>IT Graduate | Java | Go | SQL | Data-Driven Problem Solver | Always Learning & Adapting</a></h1>
   
 
 
