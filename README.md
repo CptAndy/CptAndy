@@ -26,9 +26,16 @@
 
   - The implementation of a SQL database to support a traffic control system. This database includes tables for managing requirements, priority, status, and tracking of various functionalities related to the system.
 
-- <b>[Backend Projects(in progress)]</b>
+- <b>[HudsonSoft Backend](https://github.com/CptAndy/hudsonsoft)</b>
 
-  - Implementation of SQL connectors, Postgres, APIs, Go language, Java,ETC.
+  - Building on a previous project, Husdsonsoft DB.
+  - Go, Postgresql 
+  - Implementing a backend acting as a system that keeps track of the following:
+      - (in progress.) authentication, clocking in/out function, and employee privileges
+      -  Inventory management
+      -  Employee registration
+      -  (in progress.) Invoice management
+      -  Many more on the way, learn in progress.
 
 <h2>Connect with me</h2>
 
