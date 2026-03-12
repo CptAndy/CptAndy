@@ -22,13 +22,12 @@
 
   - A Three-tier web-based application using servlets and JSP technology. The application runs on a Tomcat server and connects to a MySQL database using JDBC. It is designed to manage a suppliers/parts/jobs/shipments database, allowing different users to interact with the data effectively.
 
-- <b>[TransCore Database](https://github.com/CptAndy/Database-Related/blob/main/CAP3104/README.md)</b>
+- <b>[Project Status DB](https://github.com/CptAndy/Database-Related/blob/main/CAP3104/README.md)</b>
 
   - The implementation of a SQL database to support a traffic control system. This database includes tables for managing requirements, priority, status, and tracking of various functionalities related to the system.
 
-- <b>[HudsonSoft Backend](In Progress)</b>
+- <b>[Backend](In Progress)</b>
 
-  - Building on a previous project, Husdsonsoft DB.
   - Go, Postgresql 
   - Implementing a backend acting as a system that keeps track of the following:
       - (in progress.) authentication, clocking in/out function, and employee privileges
