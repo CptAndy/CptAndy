@@ -26,7 +26,7 @@
 
   - The implementation of a SQL database to support a traffic control system. This database includes tables for managing requirements, priority, status, and tracking of various functionalities related to the system.
 
-- <b>[HudsonSoft Backend](https://github.com/CptAndy/hudsonsoft)</b>
+- <b>[HudsonSoft Backend](In Progress)</b>
 
   - Building on a previous project, Husdsonsoft DB.
   - Go, Postgresql 
